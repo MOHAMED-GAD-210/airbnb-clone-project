@@ -16,6 +16,8 @@ A simplified clone of AirBnB aimed at practicing full-stack web development conc
 - Authentication: JWT or session-based auth
 - Optional: Docker, Nginx, CI/CD (GitHub Actions)
 
+## Team Roles
+
 ## Getting Started (Development)
 1. Clone the repo:
    ```bash
